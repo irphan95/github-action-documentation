@@ -15,5 +15,10 @@
 - #### You will then be greeted by this screen
 ![image](https://user-images.githubusercontent.com/103019032/166656561-7961d3c3-5b3d-483e-b979-b6722c8432e4.png)
 - #### Replace the pre-populated workflow code with the one below
-![image](https://user-images.githubusercontent.com/103019032/166657310-2e87c658-a53c-492d-b08a-d6b761460c91.png)
-
+![image](https://user-images.githubusercontent.com/103019032/166660599-ac27fb82-e4a1-42ca-834f-605994f8e3af.png)
+- #### Take a look at the GitHub Action result
+![image](https://user-images.githubusercontent.com/103019032/166660846-4ea681f2-c243-4b26-8293-e030c4b7af34.png)
+- #### This show build and test has been done successfully
+![image](https://user-images.githubusercontent.com/103019032/166661129-e879290d-d45b-42a4-9c08-2f89cb4871b6.png)
+- #### You should have gotten a successful run from the last commit of your workflow
+![image](https://user-images.githubusercontent.com/103019032/166661417-a36916fe-53a3-4049-aecb-43ef59ef670b.png)
