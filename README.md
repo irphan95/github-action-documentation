@@ -36,4 +36,13 @@
 - #### It is now time to create and configure your first workflow
 - #### Click on the Actions tab
 ![image](https://user-images.githubusercontent.com/103019032/166866571-2b483b90-bf51-4c7c-a725-18f94da40deb.png)
+- #### Click on the workflow .yml file and you can edit as per requirements
+![image](https://user-images.githubusercontent.com/103019032/166868561-e3b32ef4-aed4-4b1f-adf2-e95b08645b81.png)
+- #### Take a look at the GitHub Action result
+![image](https://user-images.githubusercontent.com/103019032/166868801-3439d0a1-f270-48ab-a6fa-72f1b51e182b.png)
+- #### This show build and test has been done successfully
+![image](https://user-images.githubusercontent.com/103019032/166868965-08970382-773b-44e7-9575-216cc7435206.png)
+- #### You should have gotten a successful run from the last commit of your workflow
+![image](https://user-images.githubusercontent.com/103019032/166869354-f575538f-7250-42ac-904e-bb7aeefeb82e.png)
+
 
